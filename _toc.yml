@@ -3,6 +3,7 @@
 
 format: jb-book
 root: index
+
 # chapters:
 #   - file: book/markdown
 #   - file: book/introduction
@@ -11,7 +12,19 @@ root: index
 # Or you organize the TOC by parts
 
 parts:
-  - caption: Chapters
+  - caption: Preface
+    numbered: false
+    maxdepth: 2
+    chapters:
+      - file: book/preface
+  - caption: Part One
+    numbered: true
+    maxdepth: 2
+    chapters:
+      - file: book/markdown
+      - file: book/introduction
+      - file: book/notebooks
+  - caption: Part Two
     numbered: true
     maxdepth: 2
     chapters:
