@@ -17,20 +17,20 @@ parts:
     maxdepth: 2
     chapters:
       - file: book/preface
+
   - caption: Part One
     numbered: true
     maxdepth: 2
     chapters:
       - file: book/markdown
       - file: book/introduction
-      - file: book/notebooks
+
   - caption: Part Two
     numbered: true
     maxdepth: 2
     chapters:
-      - file: book/markdown
-      - file: book/introduction
       - file: book/notebooks
+      
   - caption: Appendices
     chapters:
       - file: book/bibliography
