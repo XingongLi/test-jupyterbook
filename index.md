@@ -24,3 +24,7 @@ You can also add figures to your book.
 
 GIS Programming with Python Book Cover.
 :::
+
+## Add a new section here to push to GitHub Pages
+
+This is a new section added to be pushed to GitHub Pages.
