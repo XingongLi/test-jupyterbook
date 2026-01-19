@@ -71,9 +71,9 @@ jupytext:
 title: Introduction to Open Publishing
 subtitle: Using Jupyter Book for Open Publishing
 authors:
-  - name: Qiusheng Wu
+  - name: Xingong Li
     affiliations:
-      - University of Tennessee
+      - University of Kansas
     orcid: 0000-0001-5437-4073
     email: qwu18@utk.edu
 license: CC-BY-4.0

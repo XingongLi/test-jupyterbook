@@ -8,9 +8,9 @@ jupytext:
 title: How to Write and Publish a Book
 subtitle: Using Jupyter Book to Write and Publish a Book
 authors:
-  - name: Qiusheng Wu
+  - name: Xingong Li
     affiliations:
-      - University of Tennessee
+      - University of Kansas
     orcid: 0000-0001-5437-4073
     email: qwu18@utk.edu
 license: CC-BY-4.0

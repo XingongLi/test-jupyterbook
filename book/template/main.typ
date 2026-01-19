@@ -52,7 +52,7 @@
 #show: book.with(
   title: "Open Publishing Fundamentals",
   subtitle: "Using Jupyter Book to Write and Publish a Book",
-  authors: "Qiusheng Wu",
+  authors: "Xingong Li",
   date: (2025, 10, 20),
   cover: none,
   cfg: (
